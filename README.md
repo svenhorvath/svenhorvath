@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sven 👋
 
-<!--
-**svenhorvath/svenhorvath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head of Data Management & Digital Transformation at **Bauamt Vorderland** — a municipal cooperation in Vorarlberg, Austria.
 
-Here are some ideas to get you started:
+I build practical tools for public administration digitalization: SharePoint solutions, Power Platform automation, n8n workflows, and Claude Code skills that actually solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working on:**
+- Digitizing municipal building processes for inter-regional cooperation
+- Open-source Claude Code skills for developer productivity
+
+**My philosophy:** Technology as a means, not an end. Quality over speed. Document everything.
+
+---
+
+### 🛠 Tech I use
+
+`Claude Code` · `GSD` · `SharePoint / SPFx` · `Power Automate` · `Power Apps` · `n8n` · `React` · `TypeScript` · `ArcGIS Pro`
+
+---
+
+### 📌 Featured
+
+- **[tool-evaluator](https://github.com/svenhorvath/tool-evaluator)** — Claude Code skill that evaluates new tools against your existing workflow
+
+---
+
+*Building the future of Austrian municipal administration, one workflow at a time.*
