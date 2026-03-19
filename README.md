@@ -2,11 +2,12 @@
 
 Head of Data Management & Digital Transformation at **Bauamt Vorderland** — a municipal cooperation in Vorarlberg, Austria.
 
-I build practical tools for public administration digitalization: SharePoint solutions, Power Platform automation, n8n workflows, and Claude Code skills that actually solve real problems.
+I build practical tools for public administration digitalization: SharePoint solutions, Power Platform automation, n8n workflows, and Claude Code plugins that actually solve real problems.
 
 **Currently working on:**
 - Digitizing municipal building processes for inter-regional cooperation
-- Open-source Claude Code skills for developer productivity
+- RAG-based knowledge management for municipal operations (Vorderland Brain)
+- Open-source Claude Code plugins for developer productivity
 
 **My philosophy:** Technology as a means, not an end. Quality over speed. Document everything.
 
@@ -20,7 +21,8 @@ I build practical tools for public administration digitalization: SharePoint sol
 
 ### 📌 Featured
 
-- **[tool-evaluator](https://github.com/svenhorvath/tool-evaluator)** — Claude Code skill that evaluates new tools against your existing workflow
+- **[claude-marketplace](https://github.com/svenhorvath/claude-marketplace)** — Zentraler Plugin-Marketplace für Claude Code
+- **[vaultkeeper](https://github.com/svenhorvath/vaultkeeper)** — Claude Code Plugin für Wissensmanagement (Obsidian + Qdrant RAG)
 
 ---
 
